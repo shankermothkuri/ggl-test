@@ -1,4 +1,9 @@
 -------------------------------------------------------------------------------
 Test set: com.epam.google.test.JUnitTestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.978 s - in com.epam.google.test.JUnitTestSuite
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.702 s <<< FAILURE! - in com.epam.google.test.JUnitTestSuite
+testWikiPediaNavigatedToOOPPage(com.epam.google.test.WikipediaTest)  Time elapsed: 0.502 s  <<< ERROR!
+ru.stqa.selenium.factory.DriverCreationError: java.lang.reflect.InvocationTargetException
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: java.lang.IllegalStateException: The driver executable does not exist: D:\chromedriver\chromedriver_win32\chromedriver.exe
+

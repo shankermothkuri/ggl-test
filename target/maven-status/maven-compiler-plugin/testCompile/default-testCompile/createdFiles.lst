@@ -1,9 +1,7 @@
 com\epam\google\test\pages\ObjectOrientedProgrammingPage.class
-com\epam\google\test\pages\HomePage.class
 com\epam\google\test\pages\OOPPage.class
 com\epam\google\test\JUnitTestSuite.class
 com\epam\google\test\pages\Page.class
-com\epam\google\test\SampleJUnitTest.class
 com\epam\google\test\JUnitTestBase$1.class
 com\epam\google\test\pages\WikiPage.class
 com\epam\google\test\JUnitTestBase$2.class

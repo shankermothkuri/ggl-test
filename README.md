@@ -24,3 +24,4 @@ mvn clean test -e
 The target application URL and the grid location should be specifies in the `pom.xml` file in the corresponding profiles.
 
 Driver capabilities can be tuned in the files `src/test/resources/*.capabilities`.
+

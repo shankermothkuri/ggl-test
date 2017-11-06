@@ -1,4 +1,4 @@
-package com.epam.google.test;
+package com.epam.ggl.test;
 
 import org.junit.Rule;
 import org.junit.rules.TestRule;

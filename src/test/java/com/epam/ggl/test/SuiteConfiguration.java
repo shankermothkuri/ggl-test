@@ -1,4 +1,4 @@
-package com.epam.google.test;
+package com.epam.ggl.test;
 
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.Platform;

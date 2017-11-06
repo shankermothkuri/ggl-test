@@ -1,4 +1,4 @@
-package com.epam.google.test;
+package com.epam.ggl.test;
 
 import java.net.URL;
 

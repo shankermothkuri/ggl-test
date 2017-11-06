@@ -1,14 +1,13 @@
-package com.epam.google.test;
+package com.epam.ggl.test;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.support.PageFactory;
 
-import com.epam.google.test.pages.OOPPage;
-import com.epam.google.test.pages.ObjectOrientedProgrammingPage;
-import com.epam.google.test.pages.WikiPage;
-//import com.epam.google.test.pages.WikiPage;
+import com.epam.ggl.test.pages.OOPPage;
+import com.epam.ggl.test.pages.ObjectOrientedProgrammingPage;
+import com.epam.ggl.test.pages.WikiPage;
 
 public class WikipediaTest extends JUnitTestBase {
 

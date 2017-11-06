@@ -1,4 +1,4 @@
-package com.epam.google.test.pages;
+package com.epam.ggl.test.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

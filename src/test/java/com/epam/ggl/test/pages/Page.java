@@ -1,4 +1,4 @@
-package com.epam.google.test.pages;
+package com.epam.ggl.test.pages;
 
 import java.util.concurrent.TimeUnit;
 
